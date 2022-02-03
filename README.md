@@ -1,2 +1,2 @@
 # popup
-Popup using Javascript
+popup using javascript
